@@ -1,12 +1,13 @@
 # Telangana-Data-Analysis
 Analyse Growth and Present Insights to the Telangana Government
+
 This project is a part of the Codebasics Challenge# 7.
 We have 4 tables related to Transportation, TS-iPASS(investment in various sectors) and Stamp registration for the period from FY 2019-2022.
 The tables were provided in the codebasics.io website. The table names are :
-dim_date
-dim_districts
-fact_stamps
-fact_transport
+dim_date,
+dim_districts,
+fact_stamps,
+fact_transport, and 
 fact_TS_iPASS
 
 Column description for dim_districts:
